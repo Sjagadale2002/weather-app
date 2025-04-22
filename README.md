@@ -1,20 +1,31 @@
-<<<<<<< HEAD
-# Weather-App-
-=======
-# weather
+# ☀️ Weather App – Built with Flutter
 
-A new Flutter project.
+A beautifully designed, feature-rich Weather App built using **Flutter** and **Dart**. It provides real-time weather data, weekly forecasts, air quality index, and more, all wrapped in a smooth, modern UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌦️ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📍 Current location weather
+- ⏰ Hourly and 7-day forecasts
+- 🌅 Sunrise & Sunset times
+- 🌫️ Air Quality Index (AQI)
+- 💨 Wind speed, humidity, UV index, rain probability
+- 🌙 Dark mode support
+- 💾 Theme preference saved with `SharedPreferences`
+- 📊 Weather cards with shadows and rounded designs
+- 🔄 Easy location refresh & smooth animations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> master
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Dart**
+- **OpenWeatherMap API**
+- **Geolocator Package** – for current location
+- **Shared Preferences** – for saving theme settings
+- **Provider / Bloc** (if used for state management)
+
+e
+
